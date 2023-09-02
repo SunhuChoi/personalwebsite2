@@ -12,6 +12,8 @@ export const ProjectDisplay = () => {
       <img src={project.image}></img>
       <p>
         <b>Skills</b>
+        <span>JavaScript, Managing a Raspberry Pi, Git</span>
+        <b>Description</b>
       </p>
     </div>
   );
